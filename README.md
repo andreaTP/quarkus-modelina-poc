@@ -10,7 +10,7 @@
 
 Quarkus' extension for generation of client SDKs based on OpenAPI specification files.
 
-This extension is based on the [Modelina](https://github.com/microsoft/modelina).
+This extension is based on the [Modelina](https://github.com/asyncapi/modelina).
 
 **Want to contribute? Great!** We try to make it easy, and all contributions, even the smaller ones, are more than welcome. This includes bug reports, fixes, documentation, examples... But first, read [this page](CONTRIBUTING.md).
 
