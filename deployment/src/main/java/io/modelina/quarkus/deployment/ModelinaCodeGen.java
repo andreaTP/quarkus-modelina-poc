@@ -131,6 +131,7 @@ public abstract class ModelinaCodeGen implements CodeGenProvider {
         var nodeVersion = "v20.15.1"; // Latest LTS: https://nodejs.org/en/download/
         var npmVersion = "provided";
 
+        // TODO: make it configurable
         var packageName = "com.mycompany.app";
 
         try {
@@ -188,11 +189,4 @@ public abstract class ModelinaCodeGen implements CodeGenProvider {
                 "})()\n";
     }
 
-    //    const { JAVA_JACKSON_PRESET, JavaFileGenerator } = require("@asyncapi/modelina");
-    //(async () => {
-    //    const generator = new JavaFileGenerator({ presets: [JAVA_JACKSON_PRESET] })
-    //    const result = await generator.generateToFiles(
-    //        "/home/aperuffo/workspace/quarkus-modelina/integration-tests/basic/src/main/asyncapi/asyncapi.json", "/home/aperuffo/workspace/quarkus-modelina/integration-tests/basic/target/generated-sources/modelina");
-    //    console.log(result);
-    //})();
 }
