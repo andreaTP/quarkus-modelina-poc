@@ -1,0 +1,13 @@
+name: Quarkus Modelina
+description: This is a Quarkus extension to generate client SDKs using Modelina from OpenAPI descriptions
+metadata:
+ keywords:
+   - quarkus-modelina
+   - modelina
+   - openapi
+#  guide: ... # To create and publish this guide, see https://github.com/quarkiverse/quarkiverse/wiki#documenting-your-extension
+ categories:
+   - codegen
+   - client SDK
+   - OpenAPI
+ status: "experimental"

@@ -1,0 +1,3 @@
+io.modelina.quarkus.deployment.ModelinaJsonCodeGen
+io.modelina.quarkus.deployment.ModelinaYamlCodeGen
+io.modelina.quarkus.deployment.ModelinaYmlCodeGen

@@ -1,0 +1,37 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributorsPerLine": 7,
+  "projectName": "quarkus-modelina",
+  "projectOwner": "quarkiverse",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitConvention": "angular",
+  "commitType": "docs",
+  "contributors": [
+    {
+      "login": "andreaTP",
+      "name": "Andrea Peruffo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5792097?v=4",
+      "profile": "https://github.com/andreaTP",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "gastaldi",
+      "name": "George Gastaldi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54133?v=4",
+      "profile": "http://gastaldi.wordpress.com",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
+    }
+  ]
+}

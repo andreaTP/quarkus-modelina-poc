@@ -1,0 +1,5 @@
+name: quarkus-modelina
+title: Modelina
+version: dev
+nav:
+  - modules/ROOT/nav.adoc
